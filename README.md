@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=Bored.sh+%7C+Bored)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=Bored+%7C+777)](https://git.io/typing-svg)
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/> 
 
 ```csharp
-github.com/hriiss
-dc   $  imbored449
-srv  $  discord.gg/Sap2vxGdFK │ dsc.gg/shitpile
+Github   $  B0red777
+Discord  $  imbored449
+Server   $  discord.gg/Sap2vxGdFK │ dsc.gg/shitpile
 ```
 &zwnj; 
 &zwnj; 
