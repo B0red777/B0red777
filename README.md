@@ -11,3 +11,11 @@ github.com/B0red777
 Guns.lol $  Bored777
 Discord  $  imbored449
 Server   $  discord.gg/Sap2vxGdFK │ dsc.gg/shitpile
+```
+
+Languages I Know
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"/>
+</p>
