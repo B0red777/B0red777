@@ -10,7 +10,6 @@
 github.com/B0red777
 Guns.lol $  Bored777
 Discord  $  imbored449
-Server   $  discord.gg/Sap2vxGdFK │ dsc.gg/shitpile
 ```
 
 Languages I Know
